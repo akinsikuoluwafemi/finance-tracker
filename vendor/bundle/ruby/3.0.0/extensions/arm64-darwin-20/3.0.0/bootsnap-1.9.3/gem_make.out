@@ -1,0 +1,15 @@
+current directory: /Users/femi/Github/finance-tracker/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+/Users/femi/.rvm/rubies/ruby-3.0.2/bin/ruby -I /Users/femi/.rvm/rubies/ruby-3.0.2/lib/ruby/3.0.0 -r ./siteconf20220107-9522-h22k1k.rb extconf.rb
+creating Makefile
+
+current directory: /Users/femi/Github/finance-tracker/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/femi/Github/finance-tracker/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/femi/Github/finance-tracker/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.3/ext/bootsnap
+make DESTDIR\= install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20220107-9522-ks0376/bootsnap
